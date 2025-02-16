@@ -32,7 +32,7 @@
 .button-selection-area{
     display: flex;
     justify-content: space-evenly;
-    padding-top: 100px;
+    padding-top: 30px;
 }
    
 .button-selection img{
@@ -42,4 +42,9 @@
    border-color: chartreuse;
    border-width: 5px;
    background-color: palevioletred;
+}
+.status-area{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
 }
